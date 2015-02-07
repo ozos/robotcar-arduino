@@ -1,6 +1,6 @@
 #Robotcar-Arduino
 
-Control a robot car using Arduino board over bluetooth.
+This project allows to control a robot car using Arduino board over bluetooth.
 
 **How to use:**
 
